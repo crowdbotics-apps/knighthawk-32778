@@ -60,6 +60,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-login](modules/login)
 - [react-native-articles](modules/articles)
 - [react-native-user-profile](modules/user-profile)
+- [django-social-auth](backend/modules/social-auth)
 
 # Getting started: Frontend
 
